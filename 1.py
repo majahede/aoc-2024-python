@@ -1,7 +1,7 @@
 from collections import Counter
 
 def get_lists_from_file():
-    file_path = "files/1DecInput.txt"
+    file_path = "files/input01.txt"
     first_list = []
     second_list = []
 
